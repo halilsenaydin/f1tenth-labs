@@ -11,4 +11,9 @@ While the vehicle is on the race track, it may encounter static or dynamic obsta
 
 https://github.com/halilsenaydin/f1tenth-labs/assets/70847361/de4b3025-03e0-4466-8485-09f842272aa6
 
+If there are obstacles on the race track, the vehicle moves as in the video below.
+
+https://github.com/halilsenaydin/f1tenth-labs/assets/70847361/6860f178-9e6d-4e3d-813a-ad81969aba57
+
+
 
