@@ -16,5 +16,11 @@ https://github.com/halilsenaydin/f1tenth-labs/assets/70847361/de4b3025-03e0-4466
 
 https://github.com/halilsenaydin/f1tenth-labs/assets/70847361/6860f178-9e6d-4e3d-813a-ad81969aba57
 
+## Lab 6 - Pure Pursuit
+> In the pure pursuit laboratory assignment, it is expected to adjust the steering angle of the vehicle after determining the closest waypoint to the vehicle using previously created waypoints.
+
+https://github.com/halilsenaydin/f1tenth-labs/assets/70847361/daefb88a-02f1-4564-9560-eaa086de9ace
+
+
 
 
